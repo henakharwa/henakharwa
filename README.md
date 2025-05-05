@@ -62,18 +62,3 @@ _May 2022 – July 2022 | Vadodara, Gujarat, India_
 **Technologies & Frameworks**  
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?logo=nvidia&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-761D24?logo=nvidia&logoColor=white) ![cuBLAS](https://img.shields.io/badge/cuBLAS-006E6D?logo=nvidia&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-10B0DA?logo=mlflow&logoColor=white) ![cuDNN](https://img.shields.io/badge/cuDNN-CA0728?logo=nvidia&logoColor=white) ![JAX](https://img.shields.io/badge/JAX-007897?logo=jax&logoColor=white)
 
-## 📊 My GitHub Stats 💻
-
-<p align="center">
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henakharwa&layout=compact&theme=tokyonight" alt="Most Used Languages" width="48%" />
-  <!-- Overall GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=henakharwa&show_icons=true&theme=tokyonight&line_height=27" alt="GitHub Stats" width="48%" />
-</p>
-
-<p align="center">
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=henakharwa&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
-
