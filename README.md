@@ -14,6 +14,12 @@ _Coursework:_ Artificial Intelligence, Machine Learning, Big Data Analytics, Clo
 
 ## 🏢 Professional Experience
 
+**Stevens Institute of Technology — Research Assistant**  
+_April 2025 – Present | Hoboken, New Jersey, United States_
+
+- Developing an AI-driven compliance monitoring modules using Python and TensorFlow, extracting policy-relevant features from regulatory texts and integrating them into the AI Compliance system’s pipeline to automate identification of potential violations.  
+- Conducted rigorous evaluation and validation studies, designing test cases and leveraging statistical analysis to measure model precision and recall, leading to a 30% improvement in accurate detection of non-compliant outputs and streamlined reporting workflows.
+
 **Dhyey Technologies — AI/ML Intern**  
 _Jan 2024 – June 2024 | Vadodara, Gujarat, India_
 
