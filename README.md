@@ -18,5 +18,11 @@ _Coursework:_ Artificial Intelligence, Machine Learning, Big Data Analytics, Clo
 _Jan 2024 – June 2024 | Vadodara, Gujarat, India_
 
 - Developed an AI-driven health diagnostic system using GPU-optimized deep neural networks and real-time data pipelines with Kafka and Redis Streams, improving performance by 20% and model accuracy by 40%.  
-- Deployed ML models via Django, Fast & Flask APIs for 200+ users with Docker, Azure, and containerized deployment.  
+- Deployed ML models via Django, Fast & Flask APIs for 200+ users with Docker, Azure, and containerized deployment.
+
+**Charotar University of Science and Technology — Machine Learning Intern**  
+_May 2023 – July 2023 | Anand, Gujarat, India_
+
+- Engineered hybrid recommender combining collaborative/content-based filtering using TensorFlow, Kafka, ETL pipelines (PostgreSQL), and deep learning (PyTorch, CuBLAS) to cut misclassification by 25%.  
+- Optimized recommendation algorithms for e-commerce platforms (Amazon), boosting user engagement 20% and conversion rates 5% via personalized suggestions and rigorous model evaluation. 
 
