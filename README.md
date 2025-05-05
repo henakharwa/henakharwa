@@ -48,4 +48,17 @@ _May 2022 – July 2022 | Vadodara, Gujarat, India_
 - **PrepRight:**  
   AI-powered interview preparation app that uses leverages LLMs to deliver personalized feedback and improve candidate readiness through intelligent assessment and automation.
 
+## 🛠️ Skills
+
+**Programming Languages**  
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-316192?logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) ![Shell Scripting](https://img.shields.io/badge/Shell_Script-4EAA25?logo=gnu-bash&logoColor=white)
+
+**Developer Tools**  
+![VS Code](https://img.shields.io/badge/VSCode-0078D7?logo=visual-studiocode&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=power-bi&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?logo=apachehadoop&logoColor=white)
+
+**Operating Systems**  
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+
+**Technologies & Frameworks**  
+![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?logo=nvidia&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-761D24?logo=nvidia&logoColor=white) ![cuBLAS](https://img.shields.io/badge/cuBLAS-006E6D?logo=nvidia&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-10B0DA?logo=mlflow&logoColor=white) ![cuDNN](https://img.shields.io/badge/cuDNN-CA0728?logo=nvidia&logoColor=white) ![JAX](https://img.shields.io/badge/JAX-007897?logo=jax&logoColor=white)
 
