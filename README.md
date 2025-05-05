@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Hena Kharwa 👋</h1>
-## 🎓 Education
+
+🎓 Education
 
 **Master of Science in Applied Artificial Intelligence**, Stevens Institute of Technology, New Jersey, United States (Expected, May 2026)  
 _Coursework:_ Applied Machine Learning, Deep Learning, Augmented Intelligence and Generative AI, GPU and Multicore Programming
