@@ -39,5 +39,15 @@ _May 2022 – July 2022 | Vadodara, Gujarat, India_
 - Applied image processing techniques to analyze visual data, improving accuracy 15%, reducing processing time 25%, and built intuitive GUIs achieving 90% user satisfaction.
 
   ## 🚀 Key Projects
-  - ## AI - Based Stock Market Prediction System
+- **Dynamic Portfolio Optimization (Master's Thesis):**  
+  Leveraged stochastic calculus for real-time portfolio risk mitigation and adjustment.
+
+- **Financial Modeling Using Stochastic Calculus:**  
+  Applied advanced models (e.g., GBM, Ito’s Lemma, Mean-Reverting Processes) for option pricing and derivative strategies.
+
+- **Real-Time Market Anomaly Detection:**  
+  Developed low-latency algorithms for HFT applications using advanced signal processing and optimization techniques.
+
+- **Advanced Derivatives Modeling:**  
+  Implemented Monte Carlo, SABR, Heston, and Hull-White models for derivative pricing and robust risk management.
 
