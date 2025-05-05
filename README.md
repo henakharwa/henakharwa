@@ -24,5 +24,11 @@ _Jan 2024 – June 2024 | Vadodara, Gujarat, India_
 _May 2023 – July 2023 | Anand, Gujarat, India_
 
 - Engineered hybrid recommender combining collaborative/content-based filtering using TensorFlow, Kafka, ETL pipelines (PostgreSQL), and deep learning (PyTorch, CuBLAS) to cut misclassification by 25%.  
-- Optimized recommendation algorithms for e-commerce platforms (Amazon), boosting user engagement 20% and conversion rates 5% via personalized suggestions and rigorous model evaluation. 
+- Optimized recommendation algorithms for e-commerce platforms (Amazon), boosting user engagement 20% and conversion rates 5% via personalized suggestions and rigorous model evaluation.
+
+**Enlighten Infosystems — ML and Python Intern**  
+_May 2022 – July 2022 | Vadodara, Gujarat, India_
+
+- Devised ML-based expert system automating decision-making, reducing time by 30% and boosting system performance 10% via high-performance GPU computing.  
+- Applied image processing techniques to analyze visual data, improving accuracy 15%, reducing processing time 25%, and built intuitive GUIs achieving 90% user satisfaction.
 
