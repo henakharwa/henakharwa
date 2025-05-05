@@ -12,3 +12,11 @@ _Coursework:_ Applied Machine Learning, Deep Learning, Augmented Intelligence an
 **Bachelors of Technology in Computer Engineering**, Charotar University of Science and Technology, Gujarat, India (May 2024) (GPA - 3.84/4)
 _Coursework:_ Artificial Intelligence, Machine Learning, Big Data Analytics, Cloud Computing
 
+## 🏢 Professional Experience
+
+**Dhyey Technologies — AI/ML Intern**  
+_Jan 2024 – June 2024 | Vadodara, Gujarat, India_
+
+- Developed an AI-driven health diagnostic system using GPU-optimized deep neural networks and real-time data pipelines with Kafka and Redis Streams, improving performance by 20% and model accuracy by 40%.  
+- Deployed ML models via Django, Fast & Flask APIs for 200+ users with Docker, Azure, and containerized deployment.  
+
